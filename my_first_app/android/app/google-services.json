@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419591742113",
+    "project_id": "my-first-job-app-f504a",
+    "storage_bucket": "my-first-job-app-f504a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419591742113:android:85ec6b3dcfa54b687d46e0",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5TVSQTLRqNGRnYAIVA9DShcfcb6VMtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
